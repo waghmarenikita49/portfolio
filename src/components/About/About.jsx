@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from "../../pdf/Nikita1.pdf";
+import pdf from "../../pdf/Nikita.pdf";
 import profileImage from "../../assets/nikita.jpg";
 import Tilt from "react-parallax-tilt";
 
